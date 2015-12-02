@@ -1,0 +1,16 @@
+{
+  "name": "convert-mongo-posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Holbrow",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "yaml-js": "^0.1.3"
+  }
+}
