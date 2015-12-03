@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2013-06-03 01:07:39'
 edited: '2013-07-02 14:53:48'
 title: Darth Fader
 tags: [projects, art]
+hide: true
 ---
   
 <iframe src="http://player.vimeo.com/video/54720471" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

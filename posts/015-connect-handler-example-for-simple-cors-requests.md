@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2014-07-08 09:42:01'
 edited: '2014-12-11 14:27:09'
 title: Connect Handler Example for Simple CORS Requests
 tags: [connect, javascript, cors]
+hide: false
 ---
 
 For reference, I'm recording an example of handling **Simple CORS Requests** with some handy connect/express implementation details. 

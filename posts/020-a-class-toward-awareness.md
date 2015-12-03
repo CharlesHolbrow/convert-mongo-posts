@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2014-09-16 14:21:01'
 edited: '2014-09-16 15:30:53'
 title: A Class Toward Awareness
 tags: [awareness]
+hide: true
 ---
 
 Today in [class](http://aware.media.mit.edu/details), Joi talked about *the many paths toward awareness*. 

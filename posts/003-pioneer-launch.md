@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-06-03 02:21:05'
 edited: '2014-12-12 16:28:52'
 title: Pioneer
 tags: [projects]
+hide: false
 ---
 
 I'm launching [Pioneer (github)](http://github.com/CharlesHolbrow/Pioneer).

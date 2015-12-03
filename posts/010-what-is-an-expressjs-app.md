@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-07-13 17:32:22'
 edited: '2013-08-29 23:03:30'
 title: What is an express.js app?
 tags: [javascript, express]
+hide: false
 ---
                           
 An express `app` is built on top of the npm connect module. The express docs feel incomplete, because they do not cover behavior inherited from connect.

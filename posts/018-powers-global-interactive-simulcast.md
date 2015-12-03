@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2014-09-09 17:08:24'
 edited: '2014-09-11 15:34:08'
 title: 'Mixing Death and the Powers: Global Interactive Simulcast'
 tags: [projects]
+hide: true
 ---
 
 

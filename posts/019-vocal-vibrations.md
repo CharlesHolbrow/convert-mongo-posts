@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2014-09-10 12:56:31'
 edited: '2014-12-12 13:37:08'
 title: Vocal Vibrations
 tags: [projects]
+hide: true
 ---
 
 ![The Installation at Le Labo Paris](http://i1222.photobucket.com/albums/dd494/psychicenemy/VV%20Public/VVspace-with-Julien.jpg)

@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2014-09-08 13:43:59'
 edited: '2014-09-10 12:54:11'
 title: See Like A Bee
 tags: [projects]
+hide: true
 ---
 
 ![Cover Photo](http://i1222.photobucket.com/albums/dd494/psychicenemy/See%20Like%20A%20Bee/DSCN8787.jpg)

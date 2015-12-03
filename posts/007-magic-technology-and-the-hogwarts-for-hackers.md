@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-07-02 01:26:47'
 edited: '2014-12-12 13:41:17'
 title: Magic, Technology, and the Hogwarts for Hackers
 tags: [magic]
+hide: false
 ---
 
             

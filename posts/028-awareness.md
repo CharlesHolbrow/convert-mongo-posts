@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2014-12-11 13:32:52'
 edited: '2014-12-11 13:51:55'
 title: Awareness
 tags: [awareness]
+hide: true
 ---
 
 In Fall 2014, I took the MIT Media Lab class [Principles of Awareness](http://aware.media.mit.edu/details), taught by the Media Lab Director Jio Ito, and Venerable Tenzin Priyadarshi.

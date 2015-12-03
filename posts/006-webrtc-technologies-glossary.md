@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-06-22 14:10:19'
 edited: '2013-07-18 21:01:17'
 title: WebRTC Concepts
 tags: [webrtc, javascript]
+hide: false
 ---
                      
 WebRTC is pretty tricky to work with right now. As of June 2013, 

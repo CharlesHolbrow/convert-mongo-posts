@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-10-27 15:48:38'
 edited: '2014-01-18 11:28:47'
 title: What Should a Node Module Export?
 tags: [node, module, exports]
+hide: false
 ---
       
 A node.js module can export:

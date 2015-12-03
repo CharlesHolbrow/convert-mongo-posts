@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-06-12 15:21:44'
 edited: '2014-09-10 10:51:19'
 title: What is the Content-Type http header for?
 tags: [ajax, javascript]
+hide: false
 ---
 
                  

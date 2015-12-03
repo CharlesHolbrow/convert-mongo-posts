@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-07-10 21:28:16'
 edited: '2014-04-07 14:07:14'
 title: In the Trenches With a Large Scale Backbone/Express/MongoDB App
 tags: [javascript, express, backbone, async]
+hide: false
 ---
 
        

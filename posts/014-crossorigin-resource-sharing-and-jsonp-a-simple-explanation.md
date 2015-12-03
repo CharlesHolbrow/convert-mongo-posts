@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2014-06-08 21:11:19'
 edited: '2014-06-09 10:49:33'
 title: 'Cross-Origin Resource Sharing and JSONP: A Simple Explanation'
 tags: [jsonp, cors, javascript]
+hide: false
 ---
 
                          

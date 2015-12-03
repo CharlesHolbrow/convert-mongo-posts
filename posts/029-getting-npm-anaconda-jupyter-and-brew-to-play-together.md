@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2015-11-25 00:46:11'
 edited: '2015-11-25 00:52:32'
 title: Getting Npm, Anaconda, Jupyter, and Brew to Play Together
 tags: ['']
+hide: false
 ---
 
 I chose to use Anaconda to manage my Python installation in favor of the OSX stock Python 2.7 or brew'd Python. This makes it easy to switch between Python 2 and Python 3, and it works well with [Project Jupyter](http://jupyter.org/). 

@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2013-06-03 01:13:02'
 edited: '2014-05-27 10:30:00'
 title: Wanderlust
 tags: [projects, art]
+hide: true
 ---
 
     

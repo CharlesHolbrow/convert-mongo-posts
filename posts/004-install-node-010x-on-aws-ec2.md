@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2013-06-10 13:04:07'
 edited: '2013-07-04 13:44:54'
 title: Install Node 0.10.0 on AWS ec2 Ubuntu
 tags: [aws, node, ec2]
+hide: false
 ---
              
 I wanted to install Node on a free AWS ec2 instance. As is so often the case with ec2, I had to jump through some hoops. Hopefully my own experiences can save you some time. 

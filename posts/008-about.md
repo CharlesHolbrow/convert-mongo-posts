@@ -1,9 +1,9 @@
 ---
-publish: false
 date: '2013-07-02 15:56:25'
 edited: '2014-12-13 17:09:10'
 title: ''
 tags: [about]
+hide: true
 ---
 
                                                      

@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2014-05-30 20:18:10'
 edited: '2014-09-16 15:33:26'
 title: DNS, CNAME, A Record, and HTTP Redirect Explained
 tags: [dns, http]
+hide: false
 ---
 
 You have probably noticed that different websites handle the **www** subdomain in different ways. For Example:

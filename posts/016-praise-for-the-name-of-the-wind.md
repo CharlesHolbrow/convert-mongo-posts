@@ -1,9 +1,9 @@
 ---
-publish: true
 date: '2014-08-01 15:47:15'
 edited: '2014-12-13 13:54:24'
 title: Praise for The Name of the Wind
 tags: [fantasy, books, reads]
+hide: false
 ---
 
 I love escaping into a fantasy world. At best, reading a fantasy novel is a vacation, a waking dream, a story you become a part of. After I finished reading through all 5 books in *A Song of Fire and Ice* for a second time, I started looking to scratch the Fantasy/SciFi itch. However, I often find fantasy novels frustrating. For example...
