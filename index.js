@@ -10,13 +10,8 @@ var posts = JSON.parse(fs.readFileSync('posts.json', 'utf8'))
 
 // Date stuff
 var now = moment()
-  , momentStr = 'YYYY-MM-DD HH:mm:ss'
+  , momentStr = 'YYYY-MM-DD HH:mm:ss' // this can be read my moment
   , nowStr = now.format(momentStr)
-
-//console.log('Blog Post created at:', moment(posts[1].createdAt).format(momentStr))
-//console.log(posts[1].content)
-//console.log('Now', nowStr)
-//console.log(moment(nowStr).format('YYYY MMMM DD, HH:mm:ss'))
 
 var stringifyJsDate = function(jsDate){
   return moment(jsDate).format(momentStr)
