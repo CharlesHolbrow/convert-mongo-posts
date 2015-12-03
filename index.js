@@ -19,12 +19,11 @@ var stringifyJsDate = function(jsDate){
 
 var newPosts = _.map(posts, (post)=>{
   return [{
-      publish     : post.publish
-      , date      : stringifyJsDate(post.createdAt)
+      date        : stringifyJsDate(post.createdAt)
       , edited    : stringifyJsDate(post.editedAt)
       , title     : post.title
       , tags      : post.tags
-      , publish   : post.publish
+      , hide      : !post.publish
     }
     , post.content
     , post.slug
