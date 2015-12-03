@@ -24,15 +24,25 @@ var stringifyJsDate = function(jsDate){
 
 var newPosts = _.map(posts, (post)=>{
   return [{
-    publish: post.publish
-    , date      : stringifyJsDate(post.createdAt)
-    , edited    : stringifyJsDate(post.editedAt)
-    , title     : post.title
-    , tags      : post.tags
-    , publish   : post.publish
-  }, post.content, post.slug, post.createdAt]
-}).sort((postArr)=>{
+      publish     : post.publish
+      , date      : stringifyJsDate(post.createdAt)
+      , edited    : stringifyJsDate(post.editedAt)
+      , title     : post.title
+      , tags      : post.tags
+      , publish   : post.publish
+    }
+    , post.content
+    , post.slug
+    , post.createdAt
+  ]
+})
+
+newPosts = _.sortBy(newPosts, (postArr)=>{
   return postArr[3] // sort by created at
+})
+
+_.each(newPosts, (postArr)=>{
+  console.log(postArr[3])
 })
 
 function pad(num, size) {
@@ -47,6 +57,6 @@ _.each(newPosts, (postArr, i)=>{
   , slug        = postArr[2]
   , filename    = slug + '.md'
   , doc         = '---\n' + yamlText + '---\n' + content
-  fs.writeFileSync(i'./posts/' + pad(i, 3) + '-'+ filename, doc)
+  fs.writeFileSync('./posts/' + pad(i, 3) + '-'+ filename, doc)
 })
 
